@@ -63,10 +63,16 @@
       <nav class="navbar user-info-navbar" role="navigation">
         <ul class="user-info-menu left-links list-inline list-unstyled">
           <li class="hidden-sm hidden-xs">
-            <a href="javascript:void(0)" data-toggle="sidebar"><i class="fa-bars"></i></a>
+            <a href="javascript:void(0)" data-toggle="sidebar"
+              ><i class="fa-bars"></i
+            ></a>
           </li>
           <li class="dropdown hover-line language-switcher">
-            <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">
+            <a
+              href="javascript:void(0)"
+              class="dropdown-toggle"
+              data-toggle="dropdown"
+            >
               <img :src="lang.flag" /> {{ lang.name }}
             </a>
             <ul class="dropdown-menu languages">
@@ -84,7 +90,10 @@
         </ul>
         <ul class="user-info-menu right-links list-inline list-unstyled">
           <li class="hidden-sm hidden-xs">
-            <a href="https://github.com/Anjaxs/WebStack-vue" target="_blank">
+            <a
+              href="https://github.com/xiaobaiTech/golangFamily"
+              target="_blank"
+            >
               <i class="fa-github"></i> GitHub
             </a>
           </li>
@@ -109,7 +118,7 @@
 import WebItem from "../components/WebItem.vue";
 import Footer from "../components/Footer.vue";
 import itemsData from "../assets/data.json";
-import { loadJs } from '../assets/js/app.js'
+import { loadJs } from "../assets/js/app.js";
 
 export default {
   name: "Index",
@@ -147,5 +156,4 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>
