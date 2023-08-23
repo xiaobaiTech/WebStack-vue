@@ -20,12 +20,12 @@
           </router-link>
         </div>
         <div class="navbar-mobile-clear"></div>
-        <a href="https://github.com/Anjaxs/WebStack-vue" target="_blank">
-          <img
-            style="position: absolute; top: 0; right: 0; border: 0"
-            src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
-            alt="Fork me on GitHub"
-          />
+        <a href="https://github.com/xiaobaiTech/golangFamily" target="_blank">
+          <i
+            class="fa-github"
+            style="position: absolute; top: 0; right: 0; border: 0;"
+          ></i>
+          GitHub
         </a>
       </div>
     </nav>
