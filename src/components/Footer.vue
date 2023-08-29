@@ -6,7 +6,7 @@
         &copy; 欢迎关注公众号
         <a href="#"><strong>「小白debug」</strong></a>
         一起在知识的海洋里
-        <a href="http://viggoz.com" target="_blank"
+        <a href="https://xiaobaidebug.top" target="_blank"
           ><strong>呛水吧！</strong></a
         >
       </div>
